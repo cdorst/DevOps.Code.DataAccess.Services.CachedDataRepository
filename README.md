@@ -19,6 +19,7 @@ Name | Description
 
 Name | Status
 ---- | ------
+[CDorst.DevOps.Code.DataAccess.Interfaces.CacheService](https://github.com/CDorst/DevOps.Code.DataAccess.Interfaces.CacheService) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-dataaccess-interfaces-cacheservice.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-dataaccess-interfaces-cacheservice) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.DataAccess.Interfaces.CacheService.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.DataAccess.Interfaces.CacheService)
 [CDorst.DevOps.Code.DataAccess.Services.DataRepository](https://github.com/CDorst/DevOps.Code.DataAccess.Services.DataRepository) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-dataaccess-services-datarepository.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-dataaccess-services-datarepository) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.DataAccess.Services.DataRepository.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.DataAccess.Services.DataRepository)
 
 ## NuGet
@@ -27,7 +28,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.4
+1.0.5
 
 ## Metaproject
 
