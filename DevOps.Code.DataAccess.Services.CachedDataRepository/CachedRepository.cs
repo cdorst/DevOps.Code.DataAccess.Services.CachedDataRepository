@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace DevOps.Code.DataAccess.Services.CachedDataRepository
 {
     /// <summary>Represents a generic data-access repository with caching</summary>
-    public class CachedRepository<TDbContext, TEntity, TKey> : IRepository<TDbContext, TEntity, TKey>
+    public class CachedRepository<TDbContext, TEntity, TKey> : Repository<TDbContext, TEntity, TKey>
         where TDbContext : DbContext
         where TEntity : class, IEntity<TKey>
         where TKey : struct
