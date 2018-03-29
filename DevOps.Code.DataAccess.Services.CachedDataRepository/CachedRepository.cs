@@ -72,7 +72,7 @@ namespace DevOps.Code.DataAccess.Services.CachedDataRepository
         private static string GetCacheKey(TEntity entity) => $"{typeof(TEntity).FullName}:{entity.GetKey()}";
 
         /// <summary>Saves the given entity object to the cache</summary>
-        private async Task SaveCacheEntry()
+        private async Task SaveCacheEntry(TEntity entity)
         {
             _logger.LogInformation("Saving cache entry");
             await _cache.SaveAsync(GetCacheKey(entity), entity);
