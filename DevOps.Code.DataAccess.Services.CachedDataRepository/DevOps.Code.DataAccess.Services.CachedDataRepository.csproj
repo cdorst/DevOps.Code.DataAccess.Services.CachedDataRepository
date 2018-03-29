@@ -15,7 +15,7 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Services.CachedDataRepository/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Services.CachedDataRepository</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Services.CachedDataRepository</RepositoryUrl>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
   </PropertyGroup>
 
   <ItemGroup>
